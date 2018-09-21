@@ -28,7 +28,7 @@ Actualmente incluidos:
 		- XBEE PRO 20 THT 
 		- xbee xb24cz7pit 004 -THT  2 socket hembra 02x20. Pitch 2mm
 		- XBEE & XBEE PRO 37 SMD
-
+	- Connector Card (SD connecotr & others)
 	- TestPoint
 	- logoUTN
 - LIBS
