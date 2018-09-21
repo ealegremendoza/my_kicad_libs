@@ -1,0 +1,4 @@
+Importante! El pinout fue configurado pensando en que el stick no es alimentado vía USB.
+Esto quiere decir que el pin J-28 (3v3) está configurado como entrada de alimentación.
+Modificar el pin J-28 como salida en caso contrario.
+ 
