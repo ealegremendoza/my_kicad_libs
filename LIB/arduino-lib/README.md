@@ -1,5 +1,5 @@
 # Arduino KiCad Library
-*Version 1.4.1*
+extracto de https://github.com/Alarm-Siren/arduino-kicad-library
 
 Library of schematic components and footprints of common Arduino boards for KiCad.
 
