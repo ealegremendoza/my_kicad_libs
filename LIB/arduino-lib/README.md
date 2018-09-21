@@ -18,30 +18,6 @@ Currently included are:
 
 Shield means the Arduino is designed to plug in from beneath your PCB; socket means it is designed to plug in from above.
 
-## Comments, Requests, Bugs & Contributions
-All are welcome.  
-Please file an Issue or Pull Request at https://github.com/Alarm-Siren/arduino-kicad-library
-
-## License
-Copyright 2017-2018, Nicholas Parks Young. All Rights Reserved.  
-This library is licensed under the GNU LGPL v2.1, which can be found in file LICENSE.txt.
-
-## Donations
-
-If you've found this library useful and you'd like to make a donation towards its continued upkeep, click the button below:
-
-[![paypal](https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UX25HM4CZFFWW)
-
-## Library Setup
-To add this library to your KiCad Project, do the following steps:
-1. Copy the source files to your Project. Make sure that the Arduino.pretty folder structure is preserved.
-2. In Eeschema (the schematic editor of KiCad) go to Preferences -> Component Libraries. Click the "Add" button next to "Component library files".
-3. Navigate to your project folder, select "arduino.lib" and click "open".
-4. You may wish to adjust the newly added arduino schematic library to be near the top of the load order using the "Up" and "Down" buttons, but this is optional and is only relevant if you have other libraries that use the same names for parts.
-5. OK out and exit Eeschema. Open Pcbnew (the PCB editor of KiCad) go to Preferences -> Footprint Libraries Manager.
-6. Select the "Project Specific Libraries" tab and then click "Append Library".
-7. In the new line of the table, set Library Path to "$(KIPRJMOD)\Arduino.pretty" on Windows or "$(KIPRJMOD)/Arduino.pretty" on Linux/Mac, and ensure Plugin Type is "KiCad". Options and Description can be left blank. You should set Nickname to something descriptive - like "Arduino" for example!
-8. All done: you are now ready to use these schematic components and footprints!
 
 ## A note about Power and Reset pins
 
