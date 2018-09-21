@@ -1,4 +1,4 @@
-# Arduino KiCad Library
+# My KiCad Libraries
 *Version 1.0*
 
 Librerias y footprints para KiCad.
