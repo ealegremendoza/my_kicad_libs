@@ -12,11 +12,11 @@ Actualmente incluidos:
 		- Arduino M0 Shield
 		- Arduino M0 Pro Shield
 		- Arduino Mega 2560 Shield
-		- Arduino Mega 2560 Shield flipped on top (para conectar volteado para enchufar sobre la placa).
+		- Arduino Mega 2560 Shield flipped on top (para conectar volteado sobre la placa).
 		- Arduino Micro Socket
 		- Arduino Mini Socket
 		- Arduino Nano Socket
-		- Arduino Uno Shield flipped on top (para conectar volteado para enchufar sobre la placa).
+		- Arduino Uno Shield flipped on top (para conectar volteado sobre la placa).
 		- Arduino Zero Shield
 		
 	- my_footprints
