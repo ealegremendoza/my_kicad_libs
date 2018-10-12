@@ -60,6 +60,9 @@ Actualmente incluidos:
 		- XBEE & XBEE PRO 37 SMD		
 		- reguladores aic1117 - lm2575 - lm2940
 		- sensors motion
+		- mc34064
+		- Display Nokia 5110
+		- hc-sr04 ultrasonido arduino
 
 
 
